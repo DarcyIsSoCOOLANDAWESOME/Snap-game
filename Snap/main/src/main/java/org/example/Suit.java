@@ -1,5 +1,0 @@
-package org.example;
-
-public enum Suit {
-    spades, hearts, diamonds, clubs;
-}
